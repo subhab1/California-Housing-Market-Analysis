@@ -2,4 +2,4 @@
 ## Data Analysis and Visualization 
 Our project had following visualization :
 ### Choropleth Map 
-<img src="/img/medianhousing.gif" height="500" width="900" />
+<img src="team_subprime/img/medianhousing.gif" height="500" width="900" />
