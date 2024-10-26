@@ -10,3 +10,8 @@ California's housing market is one of the most dynamic and expensive in the Unit
 ### Map of Median Housing Prices Over Time
 The map visualizes changes in California's median housing prices over time, illustrating trends across the state’s diverse counties. Housing prices in California have seen significant growth, with urban and coastal areas often experiencing the steepest increases. This map offers a chronological view, showing how local economies, migration patterns, and shifts in demand have impacted different regions. By tracking these fluctuations, we can observe patterns related to economic cycles, policy changes, and social trends that have shaped housing affordability and accessibility across California.
 <img src="team_subprime/img/slider2.gif" height="500" width="900" />
+### California Housing Prices vs. Florida Housing Prices
+Income-to-Price Ratio: Comparing the median home price to the median household income can give a rough indication of affordability.
+In this case, the ratio is approximately 9.3 for California & 6.8 for Florida.
+A lower ratio is generally more favorable for homebuyers, suggesting that housing costs are a smaller proportion of their income.
+<img src="team_subprime/img/bubblemarker.gif" height="500" width="900" />
