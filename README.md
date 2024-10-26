@@ -6,4 +6,4 @@ A choropleth map of median house prices in California for 2023 is a type of them
 <img src="team_subprime/img/medianhousing.gif" height="500" width="900" />
 ### County Comparison Graph with Economic Indicators
 California's housing market is one of the most dynamic and expensive in the United States, influenced by a combination of high demand, limited supply, and economic factors such as income levels, job availability, and interest rates. Major cities like San Francisco, Los Angeles, and San Diego see some of the highest median home prices, driven by economic opportunities and lifestyle amenities that attract buyers. By comparing economic indicators like GDP, interest rates, and unemployment across counties, this analysis highlights regional trends and provides insights into the economic pressures shaping California’s housing market.
-
+<img src="team_subprime/img/slider.gif" height="500" width="900" />
